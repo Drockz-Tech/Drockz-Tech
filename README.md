@@ -13,7 +13,7 @@ Full-Stack Developer & Tech Enthusiast passionate about building impactful digit
 
 ---
 
-### 🚀 Projects
+<!--### 🚀 Projects
 - **MoneyMate — Budget Tracking Web App**  
   Real-time expense tracking, interactive charts & validations using Prisma, Recharts & Zod
 
@@ -24,7 +24,7 @@ Full-Stack Developer & Tech Enthusiast passionate about building impactful digit
   Data insights via Power BI with ETL pipelines & DAX-based KPIs
 
 ---
-
+-->
 ### 💼 Experience
 **Full-Stack Developer Intern @ Webenix Technologies (May–Oct 2024)**  
 Built high-performing UI with React & Next.js — resulting in **+30% engagement** and **-25% bounce rate**
